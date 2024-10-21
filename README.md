@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Josh, an Information Technology student at the Far Eastern University of Technology, specializing in Web and Mobile Applications. I am passionate about building intuitive and efficient applications that solve real-world problems. Currently, I'm honing my skills in full-stack development and exploring the latest trends in tech.<br><br>💡 I’m interested in:<br><br>Web & Mobile Development<br>Software development<br>Open-source Projects<br><br>🌱 I’m currently learning:<br><br>React, Nestjs, and Swift<br>APIs & Microservices<br>Database Management (SQL/NoSQL)
+👋 Hi, I'm Josh, an Information Technology student at the Far Eastern University of Technology, specializing in Web and Mobile Applications. I am passionate about building intuitive and efficient applications that solve real-world problems. Currently, I'm honing my skills in full-stack development and exploring the latest trends in tech.<br><br>💡 I’m interested in:<br><br>Web & Mobile Development<br>Software development<br>Open-source Projects<br><br>🌱 I’m currently learning:<br><br>Nextjs, Nestjs, and Swift<br>APIs & Microservices<br>Database Management (SQL/NoSQL)
 
 
 ## 🌐 Socials:
