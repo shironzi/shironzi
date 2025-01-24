@@ -1,7 +1,3 @@
-<h2 align="left">👋 Hi, I'm Josh, an Information Technology student at the Far Eastern University of Technology, specializing in Web and Mobile Applications. I am passionate about building intuitive and efficient applications that solve real-world problems. Currently, I'm honing my skills in full-stack development and exploring the latest trends in tech.</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shironzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shironzi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
